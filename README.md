@@ -1,0 +1,2 @@
+# Valeriya-SHIN_Projet_Ansible_Deploiemen_de_Gitlab
+pour Vincent Lainé_Projet_Ansible_Deploiemen_de_Gitlab

@@ -1,0 +1,5 @@
+- hosts: gitlab
+  vars_files:
+    - roles/gitlab/vars/main.yml
+  tasks:
+    - include_tasks: roles/gitlab/tasks/main.yml

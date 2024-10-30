@@ -1,0 +1,4 @@
+- name: restartbdd
+  service:
+    name: postresql
+    state: started

@@ -1,0 +1,6 @@
+# roles/database/tasks/main.yml
+- name: Installer PostgreSQL
+  apt:
+    name: "{{ item.name }}"
+    state: present
+  loop: "{{ packages_postgresql }}"

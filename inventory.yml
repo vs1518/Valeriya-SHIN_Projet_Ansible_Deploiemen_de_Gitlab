@@ -1,0 +1,5 @@
+[gitlab]
+192.168.23.128 ansible_user=root
+
+[database]
+192.168.23.128 ansible_user=root
